@@ -1,0 +1,1 @@
+Syntethic simple data generator. First name, last name, email, age.
